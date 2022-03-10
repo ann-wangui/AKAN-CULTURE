@@ -2,4 +2,18 @@ body{
     
     background-color: greenyellow;
 }
+.container {
+    text-align: center;
+    
 
+}
+/* .male{
+    align-items: center;
+    text-align: center;
+} */
+.list{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin-left: 15%;
+}
