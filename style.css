@@ -17,3 +17,6 @@ body{
     display: flex;
     margin-left: 35%;
 }
+.form{
+    text-align: center;
+}
