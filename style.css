@@ -1,6 +1,6 @@
 body{
     
-    background-color: gold;
+    background-color: blueviolet
 }
 .container {
     text-align: center;
@@ -17,7 +17,7 @@ body{
     display: flex;
     margin-left: 35%;
     font-size: 20px;
-    
+
 }
 .form{
     text-align: center;
